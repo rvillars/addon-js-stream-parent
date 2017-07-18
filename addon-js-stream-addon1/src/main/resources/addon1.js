@@ -1,0 +1,1 @@
+alert( 'This is executed by addon 1' );
